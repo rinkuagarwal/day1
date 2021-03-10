@@ -1,6 +1,6 @@
 
 public class Teacher extends Human{
-	private String name;
+	
 	private byte age;
 	Teacher(){
 		   
